@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning advanced machine learning, materials science concepts, and developing web applications with Flask.  
 - 💞️ I’m looking to collaborate on projects related to AI-generated image detection, real-time optimization models, and personal finance applications.  
 - 📫 How to reach me: jayanthmalladi844@gmail.com  or via LinkedIn at https://www.linkedin.com/in/jayanthmalladi/.  
-- ⚡ Fun fact: I can juggle interests between AI, mechanical engineering, and development while still finding time to explore gym and fitness tips!  
+- ⚡ Fun fact: I can learn anything in under 12 hours ( thanks to Andrej Karpathy ).
