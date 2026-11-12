@@ -2,34 +2,7 @@
 
 > mechanical engineer · software builder · AI where it matters
 
-```
-$ jayanth --render
-
-                          *@@@@
-                       -*@    @
-                      @-    *@-
-                    -*   -@@-                          *
-             @@@@@@@@@@@*-                            @
-                  *   ----*-                        **
-                 @          ----                  **
-                *               ----           -*-
-               *                    ---     -*--
-              --                       --@**
-              *                      *-*-  ---
--            *                    *-*         --
-*-*----*---***-*--*---*-*--*--**@@              *-
-            *                -*-  *-*-*           ---
-           --              -*-         -*-*          ---
-           *              @-               -*--        -
-           -             @                    --*
-           *            @                        -*--
-          *            @                            --*
-          *           @                                *
-          *          --
-          *          @
-
-# rendered 365d of signal · quiet year, hard burst
-```
+![terminal card: 3D torus-knot rendered as spinning ASCII](ascii-knot.svg)
 
 I build AI that runs in places where mistakes cost money — **bank documents, fraud hotlines, robot hands.** Most of it starts as a problem I hit in my own day, then I find out who else needs it.
 
