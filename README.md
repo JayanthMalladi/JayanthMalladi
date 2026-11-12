@@ -1,6 +1,17 @@
-- 👋 Hi, I’m @JayanthMalladi  
-- 👀 I’m interested in AI/ML, generative AI, and building impactful solutions for real-world problems.  
-- 🌱 I’m currently learning advanced machine learning, materials science concepts, and developing web applications with Flask.  
-- 💞️ I’m looking to collaborate on projects related to AI-generated image detection, real-time optimization models, and personal finance applications.  
-- 📫 How to reach me: jayanthmalladi844@gmail.com  or via LinkedIn at https://www.linkedin.com/in/jayanthmalladi/.  
-- ⚡ Fun fact: I can learn anything in under 12 hours ( thanks to Andrej Karpathy ).
+## 👋 Hi, I'm Jayanth Malladi
+
+I build AI that runs in places where mistakes cost money — bank documents, fraud hotlines, robot hands. Mechanical engineer by degree, software builder by habit.
+
+### What I build
+- **Shim** — an upgrade agent that opens one tested PR when a dependency's API changes (AI SDK 6 → 7 first).
+- **Saathi 1930** — a Hinglish voice line that files UPI-fraud complaints live while the victim is still talking.
+- **Dual-arm robotics** — a mobile base with two 7-DOF suction arms that stands fallen objects upright (ROS 2 + Gazebo).
+- **SignalCourt** — a synthetic retailer full of decoys, to test whether AI analysts abstain instead of hallucinating.
+- **Narasimha (cat-buddy)** — a tiny cat that lives on your Mac desktop; no accounts, no AI, just something kind when you hover.
+
+> Also: I open upgrade PRs across the AI-SDK ecosystem via Shim — **19 open right now**.
+
+### Elsewhere
+- 📄 [Resume](https://github.com/JayanthMalladi/portfolio/raw/main/public/Jayanth_Malladi.pdf)
+- 💼 [LinkedIn](https://linkedin.com/in/jayanthmalladi)
+- 🧮 [Codeforces (Specialist, 1400+)](https://codeforces.com/profile/jay.malladi)
