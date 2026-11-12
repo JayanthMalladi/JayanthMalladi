@@ -1,7 +1,5 @@
 # Jayanth Malladi
 
-> mechanical engineer · software builder · AI where it matters
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JayanthMalladi&color=7ee787&style=flat-square" alt="profile views"/>
   <img src="https://img.shields.io/github/stars/JayanthMalladi/shim?style=flat-square&color=7ee787&label=shim%20%E2%9C%85&labelColor=0d1117&logo=github&logoColor=white" alt="shim stars"/>
@@ -12,8 +10,6 @@
 <p align="center">
   <img src="./ascii-knot.svg" width="509" alt="3D torus-knot rendered as spinning ASCII"/>
 </p>
-
-I build AI that runs in places where mistakes cost money — **bank documents, fraud hotlines, robot hands.** Most of it starts as a problem I hit in my own day, then I find out who else needs it.
 
 ---
 
