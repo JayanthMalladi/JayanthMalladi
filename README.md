@@ -1,17 +1,73 @@
-## 👋 Hi, I'm Jayanth Malladi
+# Jayanth Malladi
 
-I build AI that runs in places where mistakes cost money — bank documents, fraud hotlines, robot hands. Mechanical engineer by degree, software builder by habit.
+> mechanical engineer · software builder · AI where it matters
 
-### What I build
-- **Shim** — an upgrade agent that opens one tested PR when a dependency's API changes (AI SDK 6 → 7 first).
-- **Saathi 1930** — a Hinglish voice line that files UPI-fraud complaints live while the victim is still talking.
-- **Dual-arm robotics** — a mobile base with two 7-DOF suction arms that stands fallen objects upright (ROS 2 + Gazebo).
-- **SignalCourt** — a synthetic retailer full of decoys, to test whether AI analysts abstain instead of hallucinating.
-- **Narasimha (cat-buddy)** — a tiny cat that lives on your Mac desktop; no accounts, no AI, just something kind when you hover.
+```
+$ jayanth --render
 
-> Also: I open upgrade PRs across the AI-SDK ecosystem via Shim — **19 open right now**.
+                          *@@@@
+                       -*@    @
+                      @-    *@-
+                    -*   -@@-                          *
+             @@@@@@@@@@@*-                            @
+                  *   ----*-                        **
+                 @          ----                  **
+                *               ----           -*-
+               *                    ---     -*--
+              --                       --@**
+              *                      *-*-  ---
+-            *                    *-*         --
+*-*----*---***-*--*---*-*--*--**@@              *-
+            *                -*-  *-*-*           ---
+           --              -*-         -*-*          ---
+           *              @-               -*--        -
+           -             @                    --*
+           *            @                        -*--
+          *            @                            --*
+          *           @                                *
+          *          --
+          *          @
 
-### Elsewhere
-- 📄 [Resume](https://github.com/JayanthMalladi/portfolio/raw/main/public/Jayanth_Malladi.pdf)
-- 💼 [LinkedIn](https://linkedin.com/in/jayanthmalladi)
-- 🧮 [Codeforces (Specialist, 1400+)](https://codeforces.com/profile/jay.malladi)
+# rendered 365d of signal · quiet year, hard burst
+```
+
+I build AI that runs in places where mistakes cost money — **bank documents, fraud hotlines, robot hands.** Most of it starts as a problem I hit in my own day, then I find out who else needs it.
+
+---
+
+## ▸ contribution heat · last 52 weeks
+
+```
+Dec  Jan  Feb  Mar  Apr  May  Jun  Jul  Aug  Sep  Oct
+                                                ..o:.
+                                              . .. o
+                 .                              .:o@
+                 .                         .      :.
+                                        .         @.
+         .                          .   .   .  :.:o.
+                                           .    . o:.
+```
+
+`35 active days · busiest 2026-11-02 · longest streak 13d`
+
+---
+
+## ▸ featured — Shim
+
+```
+$ npx getshim scan ./your-repo
+  › breaking API change detected
+  › applied 1 deterministic fix, gated on baseline
+  › opened 1 reviewed PR          (no human in the loop)
+
+An upgrade agent: when a dependency's API changes, Shim scans your code,
+fixes it deterministically, and opens a single tested PR.
+```
+
+`19 upgrade-PRs open right now, across the AI-SDK ecosystem → [shim](https://github.com/JayanthMalladi/shim) · [getshim.dev](https://getshim.dev)`
+
+---
+
+## ▸ around the web
+
+`[github](https://github.com/JayanthMalladi)` · `[linkedin](https://linkedin.com/in/jayanthmalladi)` · `[codeforces · Specialist 1400+](https://codeforces.com/profile/jay.malladi)` · `[resume](https://github.com/JayanthMalladi/portfolio/raw/main/public/Jayanth_Malladi.pdf)`
