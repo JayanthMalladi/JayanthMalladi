@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" viewBox="0 0 800 150" role="img" aria-label="High Score board">
+  <defs>
+    <pattern id="hthalo" width="5" height="5" patternUnits="userSpaceOnUse">
+      <circle cx="1.4" cy="1.4" r="0.9" fill="rgba(0,0,0,0.06)"/>
+    </pattern>
+  </defs>
+
+  <!-- platinum board -->
+  <rect x="0" y="0" width="800" height="150" rx="4" fill="#dedede"/>
+  <rect x="0" y="0" width="800" height="150" rx="4" fill="url(#hthalo)"/>
+  <rect x="0" y="146" width="800" height="4" rx="2" fill="#3d4f97"/>
+
+  <!-- chrome-indigo tab. textLength locks "HIGH SCORE" to exactly 80px so it can
+       never overflow the tab, no matter which font GitHub/the viewer uses. -->
+  <rect x="12" y="8" width="104" height="20" rx="2" fill="#3d4f97"/>
+  <text x="20" y="22" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="900" letter-spacing="1" fill="#ffffff" textLength="80" lengthAdjust="spacingAndGlyphs">HIGH SCORE</text>
+
+  <!-- rows: colored square + fact (streak lives in the live widget below) -->
+  <g font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">
+    <rect x="12" y="42" width="14" height="14" rx="2" fill="#e60012"/>
+    <text x="36" y="53" fill="#21242e">CODEFORCES SPECIALIST 1400+</text>
+
+    <rect x="12" y="66" width="14" height="14" rx="2" fill="#ecab37"/>
+    <text x="36" y="77" fill="#21242e">GOLDMAN SUMMER ANALYST · FT</text>
+
+    <rect x="12" y="90" width="14" height="14" rx="2" fill="#206479"/>
+    <text x="36" y="101" fill="#21242e">QUEST · 96% DIGITAL TWIN</text>
+
+    <rect x="12" y="114" width="14" height="14" rx="2" fill="#f68d1f"/>
+    <text x="36" y="125" fill="#21242e">GENAI LEAD · 200+ STUDENTS</text>
+  </g>
+
+  <!-- 1UP bonus, top-right -->
+  <text x="742" y="30" text-anchor="middle" font-family="'Arial Black',Arial,sans-serif" font-size="14" font-weight="900" fill="#e60012">1UP</text>
+  <text x="742" y="44" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="9" font-weight="900" letter-spacing="1" fill="#206479">BONUS</text>
+</svg>
